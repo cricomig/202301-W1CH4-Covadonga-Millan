@@ -1,0 +1,11 @@
+{
+  "name": "202301-w1ch4-covadonga-millan",
+  "version": "1.0.0",
+  "description": "Maqueta con HTML y CSS las capturas adjuntas (mobile y desktop), teniendo en cuenta las siguientes especificaciones:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+
